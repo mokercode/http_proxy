@@ -6,7 +6,7 @@ repository: https://github.com/wslaimin/http_proxy
 
 environment:
   sdk: '>=3.0.6  <4.0.0'
-  flutter: 3.13.6
+  flutter: 3.10.6
 
 dependencies:
   flutter:
